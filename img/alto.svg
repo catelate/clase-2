@@ -1,7 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<style>
-    text{font-family:Helvitica, Arial, sans-serif;}
-</style>
-<path d="M21.34,59.41V39.73h2c4.67,0,7.26,3.07,7.26,6.4v9l3,3.2V18c0-3.32,2-5.41,4.67-5.41s4.55,2.09,4.55,5.41V49.45h2.83V11.69c0-3.2,1.85-5.29,4.68-5.29,2.46,0,4.42,2.09,4.42,5.29V49.45H57.5V16.24C57.5,13,59.59,11,62.3,11c2.46,0,4.43,2.09,4.43,5.29L66.6,49.45h2.83V21.4c0-3.32,2.22-5.29,4.43-5.29a4.94,4.94,0,0,1,4.8,5.29l-.25,41.45C78.29,83.52,67.47,93.6,50.74,93.6,32.9,93.6,21.34,80.44,21.34,59.41Z"></path>
-<text text-anchor="middle" x="53" y="75" fill="white" font-size="15">PARE</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      
+    path:hover{
+        fill:pink;
+      }
+
+      .cls-1 {
+        font-size: 10px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: ArialMT, Arial;
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Capa_1">
+      <path d="M21.3,59.4v-19.7h2c4.7,0,7.3,3.1,7.3,6.4v9l3,3.2V18c0-3.3,2-5.4,4.7-5.4s4.5,2.1,4.5,5.4v31.5h2.8V11.7c0-3.2,1.8-5.3,4.7-5.3s4.4,2.1,4.4,5.3v37.8h2.8V16.2c0-3.2,2.1-5.2,4.8-5.2s4.4,2.1,4.4,5.3v33.2c-.1,0,2.7,0,2.7,0v-28.1c0-3.3,2.2-5.3,4.4-5.3,2.7,0,4.9,2.3,4.8,5.1,0,0,0,.1,0,.2l-.2,41.5c-.1,20.7-10.9,30.7-27.7,30.7s-29.4-13.2-29.4-34.2Z"/>
+      <text class="cls-2" transform="translate(33.1 75)"><tspan x="0" y="0">PARE</tspan></text>
+      <text class="cls-1" transform="translate(4.1 16.6)"><tspan x="0" y="0">mano</tspan></text>
+      <g>
+        <line class="cls-3" x1="16.7" y1="25" x2="27.8" y2="36.1"/>
+        <g>
+          <line class="cls-4" x1="16.7" y1="25" x2="24.1" y2="32.4"/>
+          <polygon points="27.8 27.5 19.2 36.1 27.8 36.1 27.8 27.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
